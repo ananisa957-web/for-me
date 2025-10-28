@@ -17,3 +17,8 @@ body {
 .kartu-profil img { 
   widt: 50px;
   border-radius: 50% /* Trik untuk membuat gambar persegi menjadi lingkaran */
+}
+ .kartu-profil {
+   /*... (kode dari slide sebelumnya) .../*
+   text.align: center; /* Menengahkan semua text di dalam kartu */
+ }
